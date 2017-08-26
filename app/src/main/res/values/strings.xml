@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Xia</string>
+    <string name="version">0,1</string>
+    <string name="remerciment">Greatings :</string>
+    <string name="a_propos">About</string>
+    <string name="login">Login : </string>
+    <string name="password">Password : </string>
+    <string name="welcome">Welcome</string>
+    <string name="connect">Connect</string>
+    <string name="wrong_user">Username or password is incorrect</string>
+    <string name="title_activity_child">Titre test</string>
+
+    <!-- // Action BAR  -->
+    <string name="action_add">Add</string>
+    <string name="action_search">Search</string>
+    <string name="action_location">Location</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_help">Help</string>
+    <string name="action_check_updates">Check update</string>
+    <string name="action_parameter">Parameters</string>
+    <string name="nav_shopping">Shopping</string>
+    <string name="nav_do_the_shopping_list">Do the shopping list</string>
+    <string name="nav_modify_shopping_products">Modify the shopping products</string>
+    <string name="nav_modify_places">Modify the places</string>
+    <string name="nav_navigate">Navigate</string>
+
+
+</resources>
